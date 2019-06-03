@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+B.Tech from Veermata Jijabai Technological Institute, Mumbai
 
-### More Information
+Former Associate Consultant at Wipro Technologies
 
-A place to include any other types of information that you'd like to include about yourself.
+Cleared GATE 2019 Score-762, AIR-388
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chaitrasj2013@gmail.com](mailto:chaitrasj2013@gmail.com)
