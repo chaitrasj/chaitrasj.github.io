@@ -39,3 +39,40 @@ Interviewer 2: Do we give something else with x in input?
 Me: I was not getting what more is given, but after struggle for 2–3 minutes, with their hints, I said weights and biases are applied, I said yes linear function of x is given as input.
 
 (Actually, x is multiplied with weights and added with biases, and this linear function of x is given to the neuron as input, but I didn’t knew it happens in all neural networks, and I took lot of time to answer this very basic question, so they had started getting pissed off.)
+
+Interviewer 1: What is a linear function?
+Me: Sir, if we take x as input and if y changes linearly with x, then the mapping from x to y is a linear function. I explained y=mx+c equation on board. But they were not satisfied with my answer.
+
+Interviewer 1: What does the neuron do?
+Me: Sir, it’s a function, which we generally take to be a sigmoid function, and wrote the equation for that, which involved the exponential term.
+
+Interviewer 1: What is e in this equation?
+Me: Sir, it’s the exponential term, added to keep values of y between 0 and 1.
+
+Interviewer 1: But what exactly is exponential e?
+Me: Sir. it’s a constant, used to get exponential characteristics
+
+Interviewer 1: What kind of constant?
+Me: It’s an irrational number
+
+Interviewer 1: What are irrational numbers?
+Me: Um, Sir the numbers cannot be expressed as ratio of 2 natural nos. and after the decimal, the number goes on forever without repeating.
+
+Interviewer 1: So what is 0.11111….. 
+Me: I tried to see express this as ratio of 2 natural nos. but I didn’t get, so I said it’s irrational, and they were laughing (Fair enough because it’s a rational number)
+
+Interviewer 1 and 2 were done with me, but Interviewer 3 insisted to ask one question on probability
+
+Interviewer 3: What is linearity of expectation.
+Me: Explained it on board.
+That was the end of my interview.
+
+Results: As expected, I was not selected, but I was kept in waiting list.
+
+Suggestions:
+
+If you are asked about your research interests, it’s always safe to say that Sir, I have not yet figured out where my research interest lies, I would like to try new things during MS and explore my interests.
+There would be many topics for which we prepare by seeing videos on Youtube. For answering gate questions, they may be enough, but for interviews in IIT, unless and until you know a topic thorougly, don’t claim that you know something.
+If the interviewer asks tell me something about yourself, think well and say because those words which you say will drive your interview.
+I felt they were not satisfied with intuitive definitions and were expecting more mathematical answers.
+Thanks for reading guys, and if you liked my post, don’t forget to Upvote it and share among your friends for whom this may be helpful. Cheers!
