@@ -17,15 +17,19 @@ Based on Written test and Programming test, candidates were shortlisted to be in
 57 candidates were chosen for Systems and 27 for Theory. I had chosen Theory as my area. My interview began at around 3.30 pm, and I was the first one to be interviewed in Theory group for MS. The panel had 3 profs, Nitin Saxena (Interviewer 1), Piyush Rai (Interviewer 2), and I didn’t knew the 3rd prof.
 
 **Interviewer**: Tell us something about yourself.
+
 **Me**: Told about my B.Tech branch, University, Work experience and Gate score and Rank.
 
 **Interviewer**: In what area you would like to do MS?
+
 **Me**: _(They had asked to attach SOP in our application form, in SOP I had written Deep learning as my interested area, so I thought maybe they would have SOP with them and I had somewhat prepared on that topic, so I said Deep learning, and that was the first biggest mistake I did! Also the panel had profs who were working on ML!)_
 
 **Interviewer 1** : Tell me the formal definition of Deep learning
+
 **Me**: I tried telling it from the application point of view, but they didn’t wanted that.
 
 **Interviewer 2** : Do you know about Neural Networks?
+
 **Me**: Yes Sir, I have read about them.
 
 **Interviewer 2**: Can you draw and explain on the board?
