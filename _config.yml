@@ -81,7 +81,11 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
+<<<<<<< HEAD
 accent_image:          /assets/img/3256657136926fa.jpg
+=======
+accent_image:          /assets/img/pexels-photo-414144.jpg
+>>>>>>> 5f061e79d379cdb9646919b606b4e15245b51d41
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -341,3 +345,5 @@ compress_html:
 
 sass:
   style:               compressed
+
+theme: jekyll-theme-slate
