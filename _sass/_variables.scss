@@ -21,10 +21,10 @@ $body-color: #333;
 $body-bg: #fff;
 $border-color: #ebebeb;
 
-$root-font-size: 16px;
-$root-font-size-medium: 17px;
-$root-font-size-large: 18px;
-$root-font-size-print: 11pt;
+$root-font-size: 14px;
+$root-font-size-medium: 15px;
+$root-font-size-large: 16px;
+$root-font-size-print: 9pt;
 $root-line-height: 1.75;
 
 $font-weight: 400;
@@ -35,9 +35,9 @@ $code-font-family: Menlo, Monaco, Consolas, monospace;
 
 // Breakpoints and content width. All units must be in rem!
 // NOTE: Duplicated values from `_js/src/drawer.js`.
-$content-width: 38rem;
-$content-width-2: 42rem;
-$content-width-5: 48rem;
+$content-width: 48rem;
+$content-width-2: 52rem;
+$content-width-5: 58rem;
 
 $content-margin-3: 3rem;
 $content-margin-5: 4rem;
