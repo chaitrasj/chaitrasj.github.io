@@ -1,3 +1,21 @@
+<style>
+.banner {
+    position: absolute;
+    /* bottom: 0em; */
+    width: 50%;
+    left: 4em;
+    top : 17em;
+    text-align: center;
+    font-family: Chaparral Pro Light;
+    font-weight: bolder;
+    font-size:18px;
+    @include media($tablet) {
+      bottom: 5em;
+      width: 100%;
+      left: 10%;
+    }
+  }
+</style>
 <hy-drawer
   class="{% if page.cover %}cover{% endif %}"
   align="left"
@@ -18,19 +36,71 @@
 
     <div class="sidebar-sticky">
       <div class="sidebar-about">
+
         {% if site.logo %}
-          <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
+          <a class="no-hover" href="{{ '/about-me/' | relative_url }}" tabindex="-1">
             <img src="{{ site.logo | relative_url }}" class="avatar" alt="{{ site.short_title | default:site.title }}" data-ignore />
           </a>
         {% endif %}
-        <h2 class="h1"><a href="{{ '/' | relative_url }}">{{ site.short_title | default:site.title }}</a></h2>
+        <h2 class="h1"><a href="{{ '/about-me/' | relative_url }}">{{ site.short_title | default:site.title }}</a></h2>
         {% assign text = site.tagline | default:site.description %}
         {% if text %}
           <p class="{% if text.size > 100 %}fine{% endif %}">
             {{ text | markdownify | replace:'<p>','' | replace:'</p>','' }}
           </p>
         {% endif %}
+<br>
       </div>
+<br>
+<div class="sidebar-text-carousel">
+
+              <div class="banner wow fadeInLeft animated" data-wow-delay="0.25s">
+              <div class="container">
+                <div class="text-center">
+                  <script src="/assets/js/jquery.min.js"></script>
+                  <script type="text/javascript" src = "/assets/js/typed.js"></script>
+                  <script language="JavaScript" type="text/javascript" src="/assets/js/jquery.viewport.mini.js"></script>
+                  <script language="JavaScript" type="text/javascript" src="/assets/js/wow.min.js"></script>
+
+                <p id= "typed"></p>
+              </div>
+
+            </div>
+          </div>
+        <script type="text/javascript">
+        $(document).ready(function(){
+        $('a[href*=\\#]').on('click', function(event){
+        event.preventDefault();
+        $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+        });
+        });
+        </script>
+                <script type="text/javascript">
+                   $("#typed").typed({
+                           strings: ["Developer","Music Lover","Avid Traveller","Amateur Blogger","Philosopher","Machine Learning Enthusiast"],
+
+                           stringsElement: null,
+                           // typing speed
+                           typeSpeed: 0,
+                           // time before typing starts
+                           startDelay: 100,
+                           // backspacing speed
+                           backSpeed: 0,
+                           // time before backspacing
+                           backDelay: 1500,
+                           // loop
+                           loop: true,
+                           // false = infinite
+                           loopCount: false,
+                           // show cursor
+                           showCursor: true,
+                           // character for cursor
+                           cursorChar: "",
+
+                       });
+                 </script>
+</div>
+
 
       <nav class="sidebar-nav heading" role="navigation">
         {% include body/nav.html %}

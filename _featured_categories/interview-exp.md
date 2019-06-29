@@ -8,4 +8,11 @@ description: >
   I am adding my experiences, what to do, and what not to do, and my suggestions for facing the interviews.
   If you like reading my blog, please share among your friends to whom it might be useful.  
   So, Let's get started!
+
+  <style>
+  body {
+          background-image: url("/assets/img/whatsap_background.png");
+  }
+
+  </style>
 ---
