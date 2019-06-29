@@ -199,6 +199,10 @@ paypal:
   name: PayPal
   icon: icon-paypal
   prepend: "https://www.paypal.me/"
+Quora:
+  name: Quora
+  icon: icon-facebook
+  prepend: "https://www.quora.com/profile/"
 download:
   name: Download
   icon: icon-box-add
