@@ -8,16 +8,14 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Add something about yourself if needed
+    "Take risks in your life. If you win, you can lead, if you lose, you can guide."  
+    _- Swami Vivekananda_
 
-    Open `_data/authors.yml` to edit this text.
+    “It's the possibility of having a dream come true that makes life interesting.”  
+    _-Paulo Coelho, The Alchemist_
 
-    [Download Free][kit]
-    -- or --
-    [Buy PRO][buy]
-
-    [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.1.1.zip
-    [buy]: https://app.simplegoods.co/i/NATYVLYT
+    "If you want to shine like a sun. First burn like a sun."  
+    _-Dr. APJ Abdul Kalam_
 
   # This photo will be used in the about section
   picture:
