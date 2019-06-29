@@ -8,7 +8,17 @@ noindex: true
 ---
 
 
+
 ### IIT Kanpur MS Interview Experience - CSE
+
+<style>
+body {
+        background-image: url("/assets/img/whatsap_background.png");
+}
+
+</style>
+
+
 Well, in this blog, rather than telling what to DO, I would be telling more on what NOT TO DO in interviews.
 
 _9 May 2019_  

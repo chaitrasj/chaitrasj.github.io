@@ -10,6 +10,13 @@ noindex: true
 
 ### IIT Delhi MTech Interview Experience - Computer Technology (EET)
 
+<style>
+body {
+        background-image: url("/assets/img/whatsap_background.png");
+}
+
+</style>
+
 _15 May 2019_  
 _Gate score_ - 762, _AIR_- 388, _Category_ - General  
 There was no written test here. First there was document verification and then they asked us to wait outside a room for interviews. There was 1 professor per candidate to take interview. Since this course is offered by Electrical department, so candidates were from both CS and Electrical/Electronics background. So each prof was asking questions on different subjects, like Sumit sir was asking CS related ques of Algorithms, Prathosh sir was asking on Mathematics, and other profs were there for Embedded system and other electronics subjects. And there were TA's who were very helpful, I had told them that I had prepared Linear ALgebra and Probability, so they gave my form to Prathosh sir.  

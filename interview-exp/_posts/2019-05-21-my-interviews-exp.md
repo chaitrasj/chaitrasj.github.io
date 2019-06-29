@@ -10,6 +10,13 @@ noindex: true
 
 ### IISc MTech (Research) Interview Experience (CSA)
 
+<style>
+body {
+        background-image: url("/assets/img/whatsap_background.png");
+}
+
+</style>
+
 _21 May 2019_  
 _Gate score_ - 762, _AIR_- 388, _Category_ - General  
 

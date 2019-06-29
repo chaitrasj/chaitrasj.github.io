@@ -5,10 +5,19 @@ comments: true
 
 author: author1
 noindex: true
+
 ---
 
 
 ### IIT Madras MS Written Test Questions - CSE
+
+
+<style>
+body {
+        background-image: url("/assets/img/whatsap_background.png");
+}
+
+</style>
 
 _30 April 2019_  
 _Gate score_ - 762, _AIR_- 388, _Category_ - General  

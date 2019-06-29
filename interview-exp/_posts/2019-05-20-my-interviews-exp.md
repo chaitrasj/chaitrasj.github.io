@@ -10,6 +10,13 @@ noindex: true
 
 ### IISc MTech (Research) Interview Experience (CD-CS)
 
+<style>
+body {
+        background-image: url("/assets/img/whatsap_background.png");
+}
+
+</style>
+
 _20 May 2019_  
 _Gate score_ - 762, _AIR_- 388, _Category_ - General  
 
